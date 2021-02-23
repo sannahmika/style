@@ -1,0 +1,7 @@
+@import url("resume-print.css") print;
+@import url("resume.css");
+@page {
+	@bottom-center {
+		content: counter(page) " av " counter(pages);
+	}
+}

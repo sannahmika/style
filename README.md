@@ -1,2 +1,2 @@
 # style
-Common files for the Issuefab visual identity.
+Common files for the Issuefab Visual Identity.

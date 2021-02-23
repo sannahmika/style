@@ -1,0 +1,10 @@
+@import url("./resume-sv.css");
+@media print {
+@page {
+	@top-left {
+		content: "";
+		margin: 25mm 0 0 -40mm;
+		vertical-align: top;
+	}
+}
+}
